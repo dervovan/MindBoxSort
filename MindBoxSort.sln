@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxSort", "MindBoxSort\MindBoxSort.csproj", "{C25C613A-98D3-4DCC-A2FC-A3096E2FB33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTest", "SortingTest\SortingTest.csproj", "{665D7383-B777-4208-BB39-F497BA560CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25C613A-98D3-4DCC-A2FC-A3096E2FB33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25C613A-98D3-4DCC-A2FC-A3096E2FB33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25C613A-98D3-4DCC-A2FC-A3096E2FB33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25C613A-98D3-4DCC-A2FC-A3096E2FB33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665D7383-B777-4208-BB39-F497BA560CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665D7383-B777-4208-BB39-F497BA560CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665D7383-B777-4208-BB39-F497BA560CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665D7383-B777-4208-BB39-F497BA560CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
